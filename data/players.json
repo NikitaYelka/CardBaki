@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "nameEn": "Baki Hanma",
+    "nameJp": "範馬 刃牙",
+    "image": "https://miro.medium.com/1*mmI_LgMpldwMY-axGU2wjg@2x.jpeg",
+    "aliases": "The Ogre, Baki",
+    "age": 17,
+    "height": "167 cm",
+    "weight": "68 kg",
+    "status": "Alive",
+    "occupation": "High School Student, Martial Artist",
+    "fightingStyle": "Hanma Style",
+    "about": "Baki Hanma is the protagonist of the Baki series and the son of Yuujiro Hanma, the strongest creature on Earth. He trains relentlessly in order to surpass his father and become the strongest.",
+    "quoteJp": "俺は強くなるために生まれてきたんだ。",
+    "quoteEn": "I was born to become strong.",
+    "appearances": [
+      "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/03/baki-hanma.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQ-m0Zz8nGrPLSicaCnKMfZ3BrofFHJH31o07L7b6dQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukzqcRBOtRJcxJh1JXn_PJtlShM56Mp-POrbE4e2yxg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq7Bo6dfOBbBrtpF5pUHd2yrioKIPVVw7ATeuynI9cag&s=10"
+    ]
+  },
+  {
+    "id": 2,
+    "nameEn": "Yuujiro Hanma",
+    "nameJp": "範馬 勇次郎",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVcK2VsLoop077S77vSMytIHJamRKo_zkaRv3QbHUog&s=10",
+    "aliases": "The Strongest Creature on Earth, Ogre",
+    "age": 47,
+    "height": "203 cm",
+    "weight": "150 kg",
+    "status": "Alive",
+    "occupation": "Mercenary, Martial Artist",
+    "fightingStyle": "Hanma Style",
+    "about": "Yuujiro Hanma is considered the strongest creature on Earth. He is Baki's father and the primary antagonist for much of the series, seeking ever greater challenges to satisfy his need for battle.",
+    "quoteJp": "強さとは何だ？",
+    "quoteEn": "What is strength?",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNKmQwgS5werY7MD9fNbJn0qZu-d-AhELR04LTdSCYw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvK0e3hKGEYtS9LHutUVkeLVCL7zx751Q61_y63hghw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULVq_4RRS6ahJOvQ3huUuarYcTHlGlsTbvEc-0wY7Aw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJj2JwENhjZMPBWTQThEB5ylVviBNccqFiQanMFANIA&s=10"
+    ]
+  },
+  {
+    "id": 3,
+    "nameEn": "Doppo Orochi",
+    "nameJp": "愚地 独歩",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_S_TZJjq3dRWoo2JvuGVJ3sJZDapNbkRp-yWU8Wu0ZQ&s=10",
+    "aliases": "The Undefeated",
+    "age": 51,
+    "height": "175 cm",
+    "weight": "90 kg",
+    "status": "Alive",
+    "occupation": "Martial Artist, Dojo Master",
+    "fightingStyle": "Karate",
+    "about": "Doppo Orochi is a legendary karate master, undefeated in official competition, respected as one of the strongest martial artists of his generation.",
+    "quoteJp": "空手に先手なし。",
+    "quoteEn": "There is no first strike in karate.",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckFWSE_YHdribch8uAaivb5sBhIXyLMzjuTcGVB-8gPcta4ADR8uKD0E&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbD_6jHkzTNlINsJC3s5WYCvcYCqbDWdqqnVHuQ-cvUA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RwlO-DNzxotRv6TpsijtBcWSh_NrNsueI9jUPFB4zg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmikCqZ8-QfezXy_V3NnZu16EtUODjazKXQPs8qA3_g&s=10"
+    ]
+  },
+  {
+    "id": 4,
+    "nameEn": "Shibukawa Gouki",
+    "nameJp": "渋川 剛気",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRXAo9ywaPgwK3U_s_EPyMnvhWRDra_xpnoXgzPDjLg&s=10",
+    "aliases": "The Spider",
+    "age": 70,
+    "height": "168 cm",
+    "weight": "62 kg",
+    "status": "Alive",
+    "occupation": "Martial Artist",
+    "fightingStyle": "Aiki-jujutsu",
+    "about": "Shibukawa Gouki is an elderly master of Aiki-jujutsu whose technique and experience allow him to overcome opponents far younger and stronger than himself.",
+    "quoteJp": "老いてもなお強し。",
+    "quoteEn": "Strong even in old age.",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxlmejJhxhi5JsygT_sXKbEEcrMwOQ5QkSxjbOAofJg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRufCxppXeL2262ApFmx7tdMB8KkpAX_C-Z7mzpCRkKHw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNGZoWFQtYH4X1KesQwnR4FSdDAI5G68EjfMdieZ5c_g&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1_P4cRFSNVC9ipsaG_9DHQLB4xEuFul9A2RaE-qtCYA&s=10"
+    ]
+  },
+  {
+    "id": 5,
+    "nameEn": "Jack Hanma",
+    "nameJp": "ジャック・ハンマ",
+    "image": "https://preview.redd.it/what-do-you-think-about-my-jack-hanma-roblox-skin-v0-a7opli9h7xyf1.jpg?width=640&crop=smart&auto=webp&s=74d029cf203bfd7daf14f6beae99539101434aff",
+    "aliases": "Jack Hammer",
+    "age": 22,
+    "height": "190 cm",
+    "weight": "110 kg",
+    "status": "Alive",
+    "occupation": "Fighter",
+    "fightingStyle": "Self-taught Brawling",
+    "about": "Jack Hanma is a brutal self-made fighter who has modified his own body to become a living weapon, driven by an obsession to defeat Baki.",
+    "quoteJp": "力こそ全て。",
+    "quoteEn": "Power is everything.",
+    "appearances": [
+      "https://i1.sndcdn.com/artworks-esKCPv2VMAVlTign-bvkikQ-t1080x1080.jpg",
+      "https://i.scdn.co/image/ab67616d00001e020c27ca2c7116e9e9c90d407d",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmdXLQBIybzAxKqHfkRJa1YxJSyswpbX56CgyYkbkenNcOb4HVB89C8tK&s=10",
+      "https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/03/jack-hanma.jpg?w=1600&h=900&fit=crop"
+    ]
+  },
+  {
+    "id": 6,
+    "nameEn": "Hanayama Kaoru",
+    "nameJp": "花山 薫",
+    "image": "https://i.redd.it/draken-tokyo-revengers-vs-hanayama-who-is-better-writing-v0-ambihjnhmv7g1.jpg?width=500&format=pjpg&auto=webp&s=bf57f41a260692511a860f9302e1c544e4313208",
+    "aliases": "The Iron Man",
+    "age": 25,
+    "height": "195 cm",
+    "weight": "150 kg",
+    "status": "Alive",
+    "occupation": "Fighter",
+    "fightingStyle": "Freestyle Grappling",
+    "about": "Hanayama Kaoru is renowned for his monstrous physical strength and near-impenetrable defense, earning him the nickname Iron Man.",
+    "quoteJp": "折れない鉄の意志。",
+    "quoteEn": "An unbreakable will of iron.",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1xdBdBoBut0g13upMsEfohFNkMKZ-Cai6bSewwmMgQ&s=10",
+      "https://i1.sndcdn.com/artworks-cy3uwGlfdgHoi7kB-EJd6nA-t1080x1080.jpg",
+      "https://comicvine.gamespot.com/a/uploads/scale_small/11141/111416458/7423833-4037172621-D7iBy.jpg",
+      "https://superherojacked.b-cdn.net/wp-content/uploads/2021/09/Kaoru-Hanayama-Workout-2-1024x576.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "nameEn": "Katsumi Orochi",
+    "nameJp": "愚地 克巳",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nFe3Z0NvW9PpfB0LuhwkjbKJ-en1Q9zIs5Gex-qupQ&s=10",
+    "aliases": "Son of Doppo",
+    "age": 19,
+    "height": "178 cm",
+    "weight": "75 kg",
+    "status": "Alive",
+    "occupation": "Martial Artist",
+    "fightingStyle": "Karate",
+    "about": "Katsumi Orochi, son of Doppo Orochi, strives to step out of his father's shadow and prove his own strength as a karate fighter.",
+    "quoteJp": "父を超えてみせる。",
+    "quoteEn": "I will surpass my father.",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6Io-QMZNeje1ctQXk4MJDKjMDISpp-dLiQAD9Q_fuA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKLP-lvx4Y8V2OX8bS8-hHorhhy1rHurGHq59_98_-w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQS1I2mj6TrwVsJpvwnH-Z3y0vcoePN3rupGm9fwjMA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYS1_WbYr6p7tLThhP417Cloxa69GNp3JEgFTDBABrQ&s=10"
+    ]
+  },
+  {
+    "id": 8,
+    "nameEn": "Oliver Sponge Cake",
+    "nameJp": "オリバー・スポンジケーキ",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp1zR9cug4H42jDR5ePQaYLCsowrtO0q12sklWmrPO0A&s=10",
+    "aliases": "Sponge Cake",
+    "age": 45,
+    "height": "190 cm",
+    "weight": "150 kg",
+    "status": "Alive",
+    "occupation": "Martial Artist",
+    "fightingStyle": "Boxing",
+    "about": "A powerful freelance U.S. government mercenary and the unofficial master of the Arizona State Prison.",
+    "quoteJp": "自分の能力の限界を知らない人間は、完全な愚か者だ。",
+    "quoteEn": "A person who doesn't know the limits of their capabilities is a complete idiot.",
+    "appearances": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaLzIhvddNP3tz-t9LMotoKjoc9NW8dkwQ1-b4i291g&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsjZyAJ8_OojxRCg-hxXkOcI5SKTMnkuGux89VbYhIQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MIhN2vaSScFk1Ytb1JOLVeTB0ZXKnVVuqLPgkUbq1w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlWF159AAPHFkxtwa8OsfvKDO1n6pthTmnQ43-kekFWg&s=10"
+    ]
+  }
+]
