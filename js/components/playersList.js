@@ -1,14 +1,5 @@
-/**
- * Компонент: рендер сетки карточек персонажей на главной странице
- */
-
 import { getPlayers } from '../api/players.js';
 
-/**
- * Создаёт HTML-разметку одной карточки персонажа.
- * @param {Object} player
- * @returns {string}
- */
 function renderCard(player) {
   return `
     <article class="character-card">
@@ -31,10 +22,6 @@ function renderCard(player) {
   `;
 }
 
-/**
- * Загружает персонажей и рендерит их в переданный контейнер.
- * @param {HTMLElement} container
- */
 export async function renderPlayersList(container) {
   try {
     const players = await getPlayers();
