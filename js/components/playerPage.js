@@ -1,10 +1,5 @@
 import { getPlayerById } from '../api/players.js';
 
-/**
- @param {string} label
- @param {string|number} value
- @returns {string}
- */
 function renderStatRow(label, value) {
   return `
     <div class="detail-stat-row">
@@ -14,20 +9,12 @@ function renderStatRow(label, value) {
   `;
 }
 
-/**
- @param {Array<string>} appearances
- @returns {string}
- */
 function renderAppearances(appearances) {
   return appearances
     .map((src) => `<img class="detail-appearance-img" src="${src}" alt="Appearance">`)
     .join('');
 }
 
-/**
- @param {Object} player
- @returns {string}
- */
 function renderDetail(player) {
   return `
     <section class="detail-info">
@@ -66,9 +53,6 @@ function renderDetail(player) {
   `;
 }
 
-/**
- @param {HTMLElement} container
- */
 export async function renderPlayerPage(container) {
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
