@@ -32,7 +32,7 @@ html {
 body {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.677), rgba(0, 0, 0, 0.595)),
-    url("/assets/appearances/ChatGPT\ Image\ 17\ авг.\ 2026\ г.\,\ 16_30_46.png");
+    url("../assets/appearances/ChatGPT\ Image\ 17\ авг.\ 2026\ г.\,\ 16_30_46.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -72,7 +72,7 @@ button {
 
 .site-header {
   border-bottom: 1px solid var(--color-border);
-  background-image: url("/assets/appearances/Снимок экрана 2026-08-17 170221.png");
+  background-image: url("../assets/appearances/Снимок экрана 2026-08-17 170221.png");
   background-color: #000000;
   background-size: 50%;
   background-position: center;
