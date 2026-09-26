@@ -1,7 +1,3 @@
-/**
- * Точка входа: определяет текущую страницу и запускает нужный рендер
- */
-
 import { renderPlayersList } from './components/playersList.js';
 import { renderPlayerPage } from './components/playerPage.js';
 
